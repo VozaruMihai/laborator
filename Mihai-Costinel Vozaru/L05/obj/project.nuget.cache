@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LLfH5EtWIbvniBpiv9gEHkELy3QPMZeUZ6/xvjT3PN7oWJWspqdc2oZoFKLEeKicsZGi+QrOu1+r9Lxh6c/mBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samsung\\Desktop\\Vozaru Mihai\\L05\\L05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.11\\microsoft.netcore.app.runtime.win-x64.5.0.11.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.11.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.11\\microsoft.aspnetcore.app.runtime.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

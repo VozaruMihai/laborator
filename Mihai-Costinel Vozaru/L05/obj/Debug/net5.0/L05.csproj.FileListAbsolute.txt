@@ -1,0 +1,16 @@
+C:\Users\Samsung\Desktop\Vozaru Mihai\L05\bin\Debug\net5.0\L05.exe
+C:\Users\Samsung\Desktop\Vozaru Mihai\L05\bin\Debug\net5.0\L05.deps.json
+C:\Users\Samsung\Desktop\Vozaru Mihai\L05\bin\Debug\net5.0\L05.runtimeconfig.json
+C:\Users\Samsung\Desktop\Vozaru Mihai\L05\bin\Debug\net5.0\L05.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\Vozaru Mihai\L05\bin\Debug\net5.0\L05.dll
+C:\Users\Samsung\Desktop\Vozaru Mihai\L05\bin\Debug\net5.0\ref\L05.dll
+C:\Users\Samsung\Desktop\Vozaru Mihai\L05\bin\Debug\net5.0\L05.pdb
+C:\Users\Samsung\Desktop\Vozaru Mihai\L05\obj\Debug\net5.0\L05.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\Vozaru Mihai\L05\obj\Debug\net5.0\L05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\Vozaru Mihai\L05\obj\Debug\net5.0\L05.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\Vozaru Mihai\L05\obj\Debug\net5.0\L05.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\Vozaru Mihai\L05\obj\Debug\net5.0\L05.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\Vozaru Mihai\L05\obj\Debug\net5.0\L05.dll
+C:\Users\Samsung\Desktop\Vozaru Mihai\L05\obj\Debug\net5.0\ref\L05.dll
+C:\Users\Samsung\Desktop\Vozaru Mihai\L05\obj\Debug\net5.0\L05.pdb
+C:\Users\Samsung\Desktop\Vozaru Mihai\L05\obj\Debug\net5.0\L05.genruntimeconfig.cache
